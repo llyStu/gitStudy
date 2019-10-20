@@ -15,7 +15,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitApplication {
 
     public static void main(String[] args) {
-        //Git test
+        //Git test to git resposity
         SpringApplication.run(GitApplication.class, args);
     }
 
