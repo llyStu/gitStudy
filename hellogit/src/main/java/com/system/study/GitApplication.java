@@ -16,6 +16,7 @@ public class GitApplication {
 
     public static void main(String[] args) {
         //Git test to git resposity
+        //第一次使用git pull命令
         SpringApplication.run(GitApplication.class, args);
     }
 
